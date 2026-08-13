@@ -1,6 +1,5 @@
-[README.md](https://github.com/user-attachments/files/31016646/README.md)
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Anim Shrestha</h1>
-<h3 align="center">Computer Science & AI Student | Frontend & Web Developer</h3>
+<h3 align="center">Computer Science & AI Student | Programming & Web Development</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Animshr">
@@ -11,21 +10,21 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 Computer Science & AI student at Softwarica College
-- 💻 Interested in Frontend & Web Development
-- 🐍 Building projects with Python, Flask, HTML, CSS & JavaScript
-- 📚 Exploring AI, Cloud Computing & emerging technologies
-- 🚀 Building practical projects and continuously learning
-- 🤝 Interested in collaboration, technology communities & student leadership
+- 🎓 Computer Science & AI student
+- 🐍 Learning and practicing Python programming
+- 🌐 Exploring HTML, CSS & JavaScript
+- 🧠 Strengthening problem-solving and programming fundamentals
+- 📚 Building and organizing academic programming exercises
+- 🚀 Continuously learning and improving through practice
 
 
 ## 🧠 My Focus Areas
-- 💻 Frontend & Web Development
-- 🐍 Python Development
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- 🛠️ Building Practical Projects
-- 🚀 Exploring Emerging Technologies
+- 🐍 Python Programming
+- 🌐 Web Development
+- 🧠 Problem Solving
+- 🔄 Programming Fundamentals
+- 🛠️ Object-Oriented Programming
+- 📚 Continuous Learning
 
 
 ## 📊 GitHub Stats & Trophies
@@ -75,6 +74,12 @@
 
 </p>
 
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
@@ -109,7 +114,7 @@
 </p>
 
 ## 💬 Quote
-> Learn, build, improve, repeat
+> Practice, learn, improve.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
