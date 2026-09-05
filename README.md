@@ -105,7 +105,7 @@
   <a href="https://wa.me/9779864483212">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@animshrestha5079">
+  <a href="https://www.youtube.com/@animshr">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:animshr123@gmail.com">
